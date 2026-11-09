@@ -23,6 +23,16 @@ Building intelligent systems and full-stack products — one commit at a time.
 
 </div>
 
+## 🥷 Flagship Jutsu
+
+<table>
+<tr><th>Project</th><th>What it does</th><th>Chakra</th></tr>
+<tr><td><b>VKRE</b><br/><sub>Final-year project</sub></td><td>Verified Knowledge Reasoning Engine: a trustworthy AI system with Knowledge, Verification and Generation layers, two novel algorithms (VECA, VFOA) and an MCP orchestrator</td><td><code>LLM</code> <code>RAG</code> <code>MCP</code></td></tr>
+<tr><td><b>DisasterMesh</b></td><td>Offline peer-to-peer disaster communication app: Bluetooth/WiFi Direct mesh, AES-256-GCM encryption, AI message prioritisation, English + Tamil</td><td><code>Flutter</code> <code>Dart</code></td></tr>
+</table>
+
+<!-- Link the names once repos are public: <a href="https://github.com/Tarun160706/REPO-NAME"><b>VKRE</b></a> -->
+
 ## 🍥 S-Rank Missions
 
 <table>
@@ -34,6 +44,23 @@ Building intelligent systems and full-stack products — one commit at a time.
 <tr><td><a href="https://github.com/Tarun160706/Pro-6-ProjectManagement"><b>Pro-6-ProjectManagement</b></a></td><td>Project management dashboard</td><td><code>JavaScript</code></td></tr>
 <tr><td><a href="https://github.com/Tarun160706/Pro-2-GraphRag"><b>Pro-2-GraphRag</b></a></td><td>GraphRAG retrieval pipeline</td><td><code>Python</code></td></tr>
 </table>
+
+## ⚡ Chakra Natures (Tech Stack)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-ff7a1a?style=for-the-badge&logo=flutter&logoColor=0b0d13" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-e2383f?style=for-the-badge&logo=dart&logoColor=0b0d13" alt="Dart"/>
+<img src="https://img.shields.io/badge/React-c77dff?style=for-the-badge&logo=react&logoColor=0b0d13" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-2fd48a?style=for-the-badge&logo=nodedotjs&logoColor=0b0d13" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-ff7a1a?style=for-the-badge&logo=mongodb&logoColor=0b0d13" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Python-e2383f?style=for-the-badge&logo=python&logoColor=0b0d13" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-c77dff?style=for-the-badge&logo=javascript&logoColor=0b0d13" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Java-2fd48a?style=for-the-badge&logo=openjdk&logoColor=0b0d13" alt="Java"/>
+
+<sub>LLMs · RAG · MCP · MERN · Mobile · Full-Stack</sub>
+
+</div>
 
 <div align="center">
 
