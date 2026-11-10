@@ -1,89 +1,249 @@
-<div align="center">
+```html
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Tarun R Header" />
+</p>
 
-<img src="./team7-dance.gif" alt="Team 7 chibi dance" width="200"/>
+<p align="center">
+  <a href="https://github.com/Tarun160706">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Tarun%20R%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%F0%9F%8E%93;Full-Stack%20Developer%20%26%20AI%20Engineer%20%F0%9F%92%BB;Java%2C%20Spring%20Boot%20%26%20Generative%20AI%20%F0%9F%A4%96;Turning%20ideas%20into%20real-world%20solutions%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+  </a>
+</p>
 
-# Hi, I'm Tarun R 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarun-r-110282291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/tarun_0648/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/tarun160706/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:tarunsankar2426@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1epddIpfMLZfgpGVsdeyzh7m7eJ9JOo_i/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Tarun160706" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
 
-**Full Stack & AI/ML Developer**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tarun160706&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
 
-Building intelligent systems and full-stack products — one commit at a time.
+---
 
-<a href="https://github.com/Tarun160706"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
-<a href="mailto:tarunsankar2426@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/tarun-r-110282291/"><img src="https://img.shields.io/badge/LinkedIn-c77dff?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"/></a>
-<a href="https://portfolio-imp-ruddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2fd48a?style=for-the-badge&logo=vercel&logoColor=0b0d13" alt="Portfolio"/></a>
+<h2 align="center">🔴 About Me</h2>
 
-<br/><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun160706&theme=tokyonight" alt="GitHub profile summary" width="100%"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+</p>
 
-<br/>
+<p align="center">
+  Hey! I'm <b>Tarun R</b>, a passionate <b>Computer Science and Engineering student & developer</b> from India.<br />
+  I specialize in building full-stack applications, developing LLM-powered systems, and engineering reliable AI solutions using Java, Spring Boot, Python, FastAPI and React.
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Tarun160706&background=0D1117&border=30363D&stroke=FF7A1A&ring=FF7A1A&fire=E2383F&currStreakNum=EEF1F7&sideNums=EEF1F7&currStreakLabel=FF7A1A&sideLabels=8B93A7&dates=8B93A7" alt="GitHub streak" height="165"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+</p>
 
-</div>
+<p align="center">
+  💬 <b>Let's Discuss:</b> Java, Python, Spring Boot, React, RAG, GraphRAG, Knowledge Graphs, MCP & System Design.<br />
+  ⚡ <b>Philosophy:</b> <i>"One step closer every day — learning, building, and turning ideas into reality!"</i>
+</p>
 
-## 🥷 Flagship Jutsu
-
-<table>
-<tr><th>Project</th><th>What it does</th><th>Chakra</th></tr>
-<tr><td><b>VKRE</b><br/><sub>Final-year project</sub></td><td>Verified Knowledge Reasoning Engine: a trustworthy AI system with Knowledge, Verification and Generation layers, two novel algorithms (VECA, VFOA) and an MCP orchestrator</td><td><code>LLM</code> <code>RAG</code> <code>MCP</code></td></tr>
-<tr><td><b>DisasterMesh</b></td><td>Offline peer-to-peer disaster communication app: Bluetooth/WiFi Direct mesh, AES-256-GCM encryption, AI message prioritisation, English + Tamil</td><td><code>Flutter</code> <code>Dart</code></td></tr>
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔭 Flagship Project</h4>
+  <p><b>VKRE – Verified Knowledge Reasoning Engine</b><br /><sub>Trustworthy AI & LLM Hallucination Reduction</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>DSA & Spring Boot</b><br /><sub>RAG, GraphRAG & AI Engineering</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤖 AI Engineering</h4>
+  <p><b>LLM-Powered Applications</b><br /><sub>Knowledge Graphs & Intelligent Systems</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>AI, Java & Full-Stack Development</b><br /><sub>Open to exciting new projects</sub></p>
+</td>
+</tr>
 </table>
 
-<!-- Link the names once repos are public: <a href="https://github.com/Tarun160706/REPO-NAME"><b>VKRE</b></a> -->
+---
 
-## 🍥 S-Rank Missions
+<h2 align="center">🔴 Featured Project Spotlight</h2>
 
-<table>
-<tr><th>Mission</th><th>What it is</th><th>Jutsu used</th></tr>
-<tr><td><a href="https://github.com/Tarun160706/Pro-3-Recruitement"><b>Pro-3-Recruitement</b></a></td><td>Recruitment workflow application</td><td><code>Java</code></td></tr>
-<tr><td><a href="https://github.com/Tarun160706/Pro-4-StateSnap"><b>Pro-4-StateSnap</b></a></td><td>State snapshot service</td><td><code>Java</code></td></tr>
-<tr><td><a href="https://github.com/Tarun160706/Portfolio-IMP"><b>Portfolio-IMP</b></a></td><td>Personal portfolio — live on Vercel</td><td><code>JavaScript</code></td></tr>
-<tr><td><a href="https://github.com/Tarun160706/Pro-5-GeoTracker"><b>Pro-5-GeoTracker</b></a></td><td>Geo-fencing and location tracking</td><td><code>Python</code></td></tr>
-<tr><td><a href="https://github.com/Tarun160706/Pro-6-ProjectManagement"><b>Pro-6-ProjectManagement</b></a></td><td>Project management dashboard</td><td><code>JavaScript</code></td></tr>
-<tr><td><a href="https://github.com/Tarun160706/Pro-2-GraphRag"><b>Pro-2-GraphRag</b></a></td><td>GraphRAG retrieval pipeline</td><td><code>Python</code></td></tr>
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🧠 VKRE – Verified Knowledge Reasoning Engine</h3>
+  <p><i>A three-layer trustworthy AI architecture consisting of Knowledge, Verification and Generation layers that checks LLM responses against verified knowledge to reduce hallucinations. Includes two proposed verification algorithms (VECA and VFOA) and an MCP-based orchestrator, grounded in a literature review of 18 research papers.</i></p>
+  <br />
+  <p>
+    <a href="https://github.com/Tarun160706" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20GitHub-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
 </table>
 
-## ⚡ Chakra Natures (Tech Stack)
+---
 
-<div align="center">
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
 
-<img src="https://img.shields.io/badge/Flutter-ff7a1a?style=for-the-badge&logo=flutter&logoColor=0b0d13" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-e2383f?style=for-the-badge&logo=dart&logoColor=0b0d13" alt="Dart"/>
-<img src="https://img.shields.io/badge/React-c77dff?style=for-the-badge&logo=react&logoColor=0b0d13" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-2fd48a?style=for-the-badge&logo=nodedotjs&logoColor=0b0d13" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-ff7a1a?style=for-the-badge&logo=mongodb&logoColor=0b0d13" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Python-e2383f?style=for-the-badge&logo=python&logoColor=0b0d13" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-c77dff?style=for-the-badge&logo=javascript&logoColor=0b0d13" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Java-2fd48a?style=for-the-badge&logo=openjdk&logoColor=0b0d13" alt="Java"/>
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
 
-<sub>LLMs · RAG · MCP · MERN · Mobile · Full-Stack</sub>
+<p align="center">
+  <a href="https://leetcode.com/u/tarun160706/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/tarun160706?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/tarun160706/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/tarun160706/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+  </a>
+</p>
 
-<div align="center">
+---
 
-<a href="https://github.com/Tarun160706?tab=repositories"><b>→ See all 19 repositories</b></a>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<br/><br/>
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  </a>
+</p>
 
-<img src="./rasengan-run.gif" alt="Naruto running with a rasengan" width="130"/>
+<p align="center"><b>Frontend & Mobile Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
+  </a>
+</p>
 
-### 🌃 My contribution village
+<p align="center"><b>Backend, Cloud & Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,postgres,mysql,sqlite&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+  </a>
+</p>
 
-*Every commit raises another building — rebuilt automatically every day.*
+<p align="center"><b>AI, Data Science & Development Tools</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,fastapi&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+  </a>
+</p>
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-0a0a0a?style=for-the-badge&logo=openai&logoColor=EF4444" alt="RAG" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GraphRAG-0a0a0a?style=for-the-badge&logo=neo4j&logoColor=EF4444" alt="GraphRAG" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Knowledge_Graphs-0a0a0a?style=for-the-badge&logo=graphql&logoColor=EF4444" alt="Knowledge Graphs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP-0a0a0a?style=for-the-badge&logo=anthropic&logoColor=EF4444" alt="MCP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
+</p>
 
-<br/><br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=Tarun160706&color=ff7a1a&style=for-the-badge&label=VISITORS" alt="Profile views"/>
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tarun160706&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tarun160706&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
 
-<img src="./chibi-walk.gif" alt="Chibi Naruto walking" width="80"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun160706&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
 
-**Dattebayo — keep coding, keep growing.** 🍥
+<p align="center">
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+</p>
 
-</div>
+---
+
+<h2 align="center">⚡ Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss AI engineering, explore full-stack development, build intelligent applications, or collaborate on open-source projects — let's connect and create something meaningful!</i></p>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/tarun-r-110282291/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.instagram.com/tarun_0648/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Instagram-@tarun_0648-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  <br />
+  <sub><b>Tech & Development</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:tarunsankar2426@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
+```
